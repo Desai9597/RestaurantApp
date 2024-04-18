@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/RestaurantApp/static/css/main.1543cc30.css",
+    "main.js": "/RestaurantApp/static/js/main.b1448c66.js",
+    "static/js/453.43bfc9bd.chunk.js": "/RestaurantApp/static/js/453.43bfc9bd.chunk.js",
+    "static/media/vegan-buddha-bowl.jpg": "/RestaurantApp/static/media/vegan-buddha-bowl.f76dd86dedba85a6e2d6.jpg",
+    "static/media/chocolate-brownie.jpg": "/RestaurantApp/static/media/chocolate-brownie.d4ea3b23d208f4bd2bca.jpg",
+    "static/media/beef-tacos.jpg": "/RestaurantApp/static/media/beef-tacos.d35172fcafba5230e826.jpg",
+    "static/media/veggie-burger.jpg": "/RestaurantApp/static/media/veggie-burger.114322af30f8eb1d969c.jpg",
+    "static/media/steak-frites.jpg": "/RestaurantApp/static/media/steak-frites.5079607f2f9f64cc7d5c.jpg",
+    "static/media/grilled-chicken-sandwich.jpg": "/RestaurantApp/static/media/grilled-chicken-sandwich.c138e9ad71596cee3675.jpg",
+    "static/media/pancake-stack.jpg": "/RestaurantApp/static/media/pancake-stack.015466ea12f5fec3dcca.jpg",
+    "static/media/margherita-pizza.jpg": "/RestaurantApp/static/media/margherita-pizza.164d869639df83252ef2.jpg",
+    "static/media/chicken-curry.jpg": "/RestaurantApp/static/media/chicken-curry.87aed6b96b6b016d99b9.jpg",
+    "static/media/miso-ramen.jpg": "/RestaurantApp/static/media/miso-ramen.0fdef94ec1c415759f77.jpg",
+    "static/media/mushroom-risotto.jpg": "/RestaurantApp/static/media/mushroom-risotto.b0090a5d97ee43f19db4.jpg",
+    "static/media/falafel-wrap.jpg": "/RestaurantApp/static/media/falafel-wrap.be0646858d03a3468641.jpg",
+    "static/media/seafood-paella.jpg": "/RestaurantApp/static/media/seafood-paella.8fc20224507866c7edf9.jpg",
+    "static/media/spaghetti-carbonara.jpg": "/RestaurantApp/static/media/spaghetti-carbonara.5de90e88ac6af3dda24b.jpg",
+    "static/media/logo.jpg": "/RestaurantApp/static/media/logo.02ee32587efd2c20c107.jpg",
+    "static/media/eggplant-parmesan.jpg": "/RestaurantApp/static/media/eggplant-parmesan.39d52aa42aa9ad4b5c65.jpg",
+    "static/media/mac-and-cheese.jpg": "/RestaurantApp/static/media/mac-and-cheese.03c3a0a1bdfdc84aeb88.jpg",
+    "static/media/caesar-salad.jpg": "/RestaurantApp/static/media/caesar-salad.2552f0f2daa88c81f5cf.jpg",
+    "static/media/lobster-bisque.jpg": "/RestaurantApp/static/media/lobster-bisque.0ab73cbd9d30aaa0e0f9.jpg",
+    "static/media/sushi-roll-platter.jpg": "/RestaurantApp/static/media/sushi-roll-platter.8419ba2a168f89c37e61.jpg",
+    "static/media/lemon-cheesecake.jpg": "/RestaurantApp/static/media/lemon-cheesecake.2cddcbb4585e2f60ee5e.jpg",
+    "index.html": "/RestaurantApp/index.html",
+    "main.1543cc30.css.map": "/RestaurantApp/static/css/main.1543cc30.css.map",
+    "main.b1448c66.js.map": "/RestaurantApp/static/js/main.b1448c66.js.map",
+    "453.43bfc9bd.chunk.js.map": "/RestaurantApp/static/js/453.43bfc9bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1543cc30.css",
+    "static/js/main.b1448c66.js"
+  ]
+}
